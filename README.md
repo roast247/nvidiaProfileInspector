@@ -1,4 +1,4 @@
-Credit goes to Orbmu2k
+Credit goes to [Orbmu2k](https://github.com/Orbmu2k)
 
 NVIDIA Profile Inspector
 
@@ -6,5 +6,5 @@ This tool is used for modifying game profiles inside the internal driver databas
 
 For more information how to use this tool, you can find some very good wikis here:
 
-https://wiki.step-project.com/Guide:NVIDIA_Inspector
-https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
+- https://wiki.step-project.com/Guide:NVIDIA_Inspector
+- https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
