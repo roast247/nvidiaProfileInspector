@@ -1,3 +1,5 @@
+Credit goes to Orbmu2k
+
 NVIDIA Profile Inspector
 
 This tool is used for modifying game profiles inside the internal driver database of the nvidia driver. All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database. You also have access to hidden and undocumented settings, which are not provided by the drivers control panel.
