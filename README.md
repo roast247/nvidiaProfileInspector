@@ -12,3 +12,15 @@ For more information how to use this tool, you can find some very good wikis her
   <hr>
 <img src="https://raw.githubusercontent.com/roast247/nvidiaProfileInspector/main/NvidiaInspector.PNG">
 <hr>
+Disclaimer: I am not resposible for any illegal actions with the use of my programs
+
+  If you would like to contact me, email me at https://roast247.eu.org/contact.php
+</h4>
+
+<h4 align="center">
+
+  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
+
+
+</h4>
