@@ -1,0 +1,24 @@
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\bin\Release\Reference.xml
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\bin\Release\nvidiaProfileInspector.exe.config
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\bin\Release\nvidiaProfileInspector.exe
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\bin\Release\AdsJumboWinForm.dll
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nvidiaProfileInspector.csproj.AssemblyReference.cache
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nspector.frmBitEditor.resources
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nspector.frmDrvSettings.resources
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nspector.frmExportProfiles.resources
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nspector.Properties.Resources.resources
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nvidiaProfileInspector.csproj.GenerateResource.cache
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nvidiaProfileInspector.csproj.CoreCompileInputs.cache
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nvidiaProfileInspector.csproj.CopyComplete
+C:\Users\macpr\Desktop\nvidiaProfileInspector-2.4.0.4\nspector\obj\Release\nvidiaProfileInspector.exe
+F:\My Projects\NVIDIA INSPECTOR\nspector\bin\Release\Reference.xml
+F:\My Projects\NVIDIA INSPECTOR\nspector\bin\Release\nvidiaProfileInspector.exe.config
+F:\My Projects\NVIDIA INSPECTOR\nspector\bin\Release\nvidiaProfileInspector.exe
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nvidiaProfileInspector.csproj.AssemblyReference.cache
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nspector.frmBitEditor.resources
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nspector.frmDrvSettings.resources
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nspector.frmExportProfiles.resources
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nspector.Properties.Resources.resources
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nvidiaProfileInspector.csproj.GenerateResource.cache
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nvidiaProfileInspector.csproj.CoreCompileInputs.cache
+F:\My Projects\NVIDIA INSPECTOR\nspector\obj\Release\nvidiaProfileInspector.exe
