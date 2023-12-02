@@ -8,7 +8,7 @@ For more information how to use this tool, you can find some very good wikis her
 
 - https://wiki.step-project.com/Guide:NVIDIA_Inspector
 - https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
-
+<h4 align="center">
   <hr>
 <img src="https://raw.githubusercontent.com/roast247/nvidiaProfileInspector/main/NvidiaInspector.PNG">
 <hr>
